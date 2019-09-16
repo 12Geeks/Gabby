@@ -1,0 +1,16 @@
+{
+  "name": "pxt-gabby",
+  "version": "1.0.0",
+  "description": "GABBY is an educational board for micro:bit design and developed by Innovation Garage.",
+  "main": "index.js",
+  "dependencies": {
+    "braces": "^3.0.2",
+    "pxt-microbit": "^2.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
