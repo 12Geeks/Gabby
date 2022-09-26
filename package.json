@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "braces": "^3.0.2",
-    "pxt-microbit": "^2.1.8"
+    "pxt-microbit": "^2.3.70"
   },
   "devDependencies": {},
   "scripts": {
